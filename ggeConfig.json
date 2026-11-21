@@ -1,0 +1,18 @@
+{
+    "webPort" : "3001",
+    "fontPath" : "",
+    "privateKey" : "",
+    "cert" : "",
+    "signupToken" : "",
+    "discordToken" : "",
+    "discordClientId" : "",
+    "discordClientSecret" : "",
+    "timeoutMultiplier" : 1,
+    "secondsTillRestartBot": 120,
+    "startupDelaySeconds": 0,
+    "staggerDelaySeconds": 10,
+    "debug" : false,
+    "recaptchaEnabled": false,
+    "recaptchaSiteKey": "",
+    "recaptchaSecretKey": ""
+}
